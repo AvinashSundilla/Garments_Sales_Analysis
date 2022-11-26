@@ -1,0 +1,89 @@
+Date,CustomerID,ProductType,Rating,Total_Ratings,Gender,PaymentMode,PaymentMode.1,ShippingMode,ShippingTime,Price,PaidCurrency,Price_dollar
+2020-08-16,10471,Coats/Jackets,1 star,8736,Female,Credit Card,Creditcard,Economy,17.0,₹ 675036.2138626401,Indian Rupee,9089.36261966045
+2020-08-02,10472,Dresses,2 star,8547,Unspecified,Ewallet,Ewallet,Mail,12.0,"€ 2,315.53",Euro,2723.81351172
+2020-08-08,10473,Coats/Jackets,2 star,9833,Unspecified,Prepaid Card,Prepaid Card,Mail,10.0,₹ 611426.29122378,Indian Rupee,8232.855011328198
+2020-08-28,10476,Coats/Jackets,2 star,5347,Female,Direct Deposit,Direct Deposit,Mail,20.0,,,0.0
+2020-08-08,10477,Coats/Jackets,5 star,9406,Unspecified,Direct Deposit,Direct Deposit,Mail,14.0,£ 6610.077565000001,British Pound,9177.828295899903
+2020-08-08,10478,Jeans,1 star,8554,Unspecified,Direct Deposit,Direct Deposit,Mail,18.0,"$4,287.06 ",American Dollar,4287.06
+2020-08-01,10479,Pants,4 star,9630,Male,Direct Deposit,Direct Deposit,Express,12.822222222222223,£ 3010.212198,British Pound,4179.5592284350805
+2020-08-21,10481,Dresses,2 star,7750,Female,Direct Deposit,,Economy,17.0,"€ 3,702.54",Euro,4355.38666296
+2020-08-18,10482,Pants,5 star,7816,Female,Mobile Payment,Mobile Payment,Mail,10.0,"€ 6,580.20",Euro,7740.447184799999
+2020-08-11,10483,Cardigan,4 star,7021,Unspecified,Cash,Cash,Express,6.0,"$6,756.94 ",American Dollar,6756.94
+2020-08-02,10484,Coats/Jackets,1 star,5024,Male,Mobile Payment,Mobile Payment,Express,18.0,"$3,148.65 ",American Dollar,3148.65
+2020-08-20,10485,Dresses,1 star,9030,Female,Mobile,Mobile,Mail,7.0,"$9,743.11 ",American Dollar,9743.11
+2020-08-06,10486,Coats/Jackets,1 star,6701,Male,Direct Deposit,Direct Deposit,Mail,19.0,£ 2190.66134375,British Pound,3041.645649343125
+2020-08-17,10488,Dresses,5 star,7659,Female,Ewallet,Ewallet,Mail,10.0,"$1,991.18 ",American Dollar,1991.18
+2020-08-17,10489,Shirts/Tops,4 star,7273,Unspecified,Direct Deposit,Direct Deposit,Economy,17.0,"€ 1,749.40",Euro,2057.8612056
+2020-08-14,10490,Shirts/Tops,1 star,9296,Female,Direct Deposit,,Economy,17.0,"$6,221.36 ",American Dollar,6221.36
+2020-08-05,10491,Coats/Jackets,1 star,9714,Female,Prepaid Card,Prepaid Card,Economy,20.0,"€ 1,514.11",Euro,1781.0839316399997
+2020-08-13,10492,Dresses,4 star,9170,Unspecified,Direct Deposit,Directdeposit,Express,19.0,£ 3854.8617452500007,British Pound,5352.321338809816
+2020-08-04,10493,Pants,4 star,6943,Unspecified,Ewallet,Ewallet,Normal,17.0,₹ 634808.1963701401,Indian Rupee,8547.692364123935
+2020-08-03,10494,Dresses,2 star,5668,Male,Credit Card,Credit Card,Mail,20.0,₹ 596893.42988816,Indian Rupee,8037.170033444074
+2020-08-07,10495,Shirts/Tops,4 star,5077,Unspecified,Ewallet,Ewallet,Mail,14.0,£ 3215.41893075,British Pound,4464.480568589145
+2020-08-08,10496,Hats,4 star,6594,Male,Prepaid Card,Prepaid Card,Express,20.0,£ 4564.22450475,British Pound,6337.243155865185
+2020-08-06,10497,Dresses,1 star,7605,Male,Direct Deposit,,Express,11.0,"€ 5,813.36",Euro,6838.394888639999
+2020-08-30,10499,Pants,4 star,7160,Unspecified,Cash,Cash,Economy,17.0,₹ 176647.10500702,Indian Rupee,2378.5532689195243
+2020-08-31,10501,Pants,4 star,6569,Unspecified,Credit Card,Creditcard,Normal,9.0,₹ 581033.69733056,Indian Rupee,7823.618734555989
+2020-08-30,10502,Coats/Jackets,3 star,8823,Female,Ewallet,Ewallet,Normal,16.0,"€ 5,242.22",Euro,6166.54919928
+2020-08-30,10503,Coats/Jackets,4 star,8117,Unspecified,Prepaid Card,Prepaid Card,Express,8.0,₹ 110529.79150523999,Indian Rupee,1488.2836426180563
+2020-08-24,10504,Coats/Jackets,1 star,5037,Female,Ewallet,Ewallet,Normal,14.0,"€ 5,546.63",Euro,6524.63398812
+2020-08-29,10505,Shirts/Tops,3 star,5757,Male,Prepaid Card,Prepaid Card,Economy,15.0,"$1,024.64 ",American Dollar,1024.64
+2020-08-07,10506,Dresses,2 star,7858,Female,Ewallet,Ewallet,Economy,13.0,"$4,313.74 ",American Dollar,4313.74
+2020-08-11,10507,Dresses,1 star,5848,Male,Direct Deposit,Direct Deposit,Economy,19.0,£ 7236.8351195000005,British Pound,10048.056090020971
+2020-08-16,10508,Cardigan,4 star,9566,Female,Mobile,Mobile,Mail,12.0,₹ 102369.19747878,Indian Rupee,1378.4012440517727
+2020-08-29,10509,Jeans,1 star,7352,Unspecified,Credit Card,Creditcard,Express,9.0,"$2,591.72 ",American Dollar,2591.72
+2020-08-16,10510,Dresses,1 star,7287,Female,Prepaid Card,Prepaid Card,Mail,20.0,₹ 217387.35303316,Indian Rupee,2927.1207085914994
+2020-08-13,10511,Dresses,4 star,6195,Unspecified,Mobile,Mobile,Economy,9.0,₹ 514514.66367266,Indian Rupee,6927.939946352367
+2020-08-02,10512,Pants,2 star,6416,Male,Credit Card,Creditcard,Economy,20.0,£ 5925.050872750001,British Pound,8226.696134778467
+2020-08-02,10513,Coats/Jackets,1 star,6535,Male,Mobile Payment,Mobile Payment,Mail,17.0,"$6,930.87 ",American Dollar,6930.87
+2020-08-09,10515,Hats,4 star,8129,Male,Direct Deposit,,Express,16.0,£ 1442.5028307500002,British Pound,2002.8574803831452
+2020-08-25,10516,Jeans,3 star,7033,Male,Direct Deposit,,Normal,14.0,₹ 167727.12548098,Indian Rupee,2258.4457446013957
+2020-08-29,10517,Hats,5 star,7532,Female,Credit Card,Credit Card,Normal,7.0,"$3,124.78 ",American Dollar,3124.78
+2020-08-21,10518,Jeans,2 star,7285,Female,Credit Card,Creditcard,Normal,14.0,"€ 2,773.90",Euro,3263.0051436
+2020-08-20,10519,Jeans,2 star,7678,Unspecified,Ewallet,Ewallet,Normal,18.0,₹ 159529.19686752,Indian Rupee,2148.0606358211567
+2020-08-06,10520,Hats,4 star,5620,Unspecified,Ewallet,Ewallet,Normal,7.0,"$1,012.61 ",American Dollar,1012.61
+2020-08-04,10521,Shirts/Tops,4 star,7082,Unspecified,Direct Deposit,Directdeposit,Normal,10.0,₹ 325505.3302182,Indian Rupee,4382.929271388062
+2020-08-12,10522,Coats/Jackets,1 star,9686,Female,Credit Card,Credit Card,Mail,9.0,"$1,813.71 ",American Dollar,1813.71
+2020-08-30,10523,Coats/Jackets,1 star,6530,Unspecified,Mobile Payment,Mobile Payment,Express,10.0,₹ 676891.7428365399,Indian Rupee,9114.347317294008
+2020-08-26,10524,Dresses,3 star,6654,Male,Direct Deposit,Direct Deposit,Normal,5.0,₹ 442385.73497213994,Indian Rupee,5956.723921399864
+2020-08-30,10525,Cardigan,5 star,6081,Female,Direct Deposit,Direct Deposit,Economy,12.0,£ 1513.049488,British Pound,2100.80869210848
+2020-08-05,10526,Jeans,2 star,9482,Unspecified,Direct Deposit,Direct Deposit,Normal,10.0,₹ 321706.90933682,Indian Rupee,4331.783534220282
+2020-08-01,10527,Dresses,1 star,8880,Male,Credit Card,Creditcard,Mail,11.0,£ 5795.0345085,British Pound,8046.17361367191
+2020-08-12,10528,Shirts/Tops,1 star,7484,Unspecified,Credit Card,Creditcard,Economy,16.0,₹ 377596.03938408,Indian Rupee,5084.330670306636
+2020-08-02,10529,Coats/Jackets,2 star,5498,Unspecified,Credit Card,Creditcard,Mail,8.0,£ 6029.319179500001,British Pound,8371.468507968571
+2020-08-30,10531,Pants,1 star,8535,Unspecified,Direct Deposit,Direct Deposit,Normal,18.0,"€ 5,597.06",Euro,6583.95600744
+2020-08-21,10532,Jeans,2 star,8399,Female,Credit Card,Credit Card,Economy,8.0,"€ 4,773.37",Euro,5615.0296918799995
+2020-08-04,10533,Coats/Jackets,5 star,8349,Unspecified,Prepaid Card,Prepaid Card,Normal,10.0,£ 6329.0235485,British Pound,8787.596036150311
+2020-08-01,10534,Shirts/Tops,4 star,8046,Male,Credit Card,Creditcard,Normal,9.0,₹ 443946.32070874,Indian Rupee,5977.737208343184
+2020-08-08,10535,Cardigan,5 star,5080,Male,Cash,Cash,Mail,8.0,"€ 4,853.44",Euro,5709.217954559999
+2020-08-31,10536,Jeans,1 star,6878,Male,Prepaid Card,Prepaid Card,Express,10.0,"$7,072.56 ",American Dollar,7072.56
+2020-08-18,10537,Coats/Jackets,2 star,9832,Male,Cash,Cash,Normal,6.0,"$5,836.06 ",American Dollar,5836.06
+2020-08-12,10538,Cardigan,2 star,9925,Female,Direct Deposit,Direct Deposit,Express,16.0,£ 3365.6864065000004,British Pound,4673.120947968991
+2020-08-02,10539,Pants,4 star,7374,Female,Credit Card,Credit Card,Normal,12.0,"$1,842.56 ",American Dollar,1842.56
+2020-08-12,10540,Dresses,1 star,9570,Male,Direct Deposit,Directdeposit,Express,14.0,£ 2419.99272275,British Pound,3360.0630958294655
+2020-08-24,10541,Shirts/Tops,5 star,9015,Unspecified,Credit Card,Creditcard,Economy,11.0,"€ 4,487.03",Euro,5278.201077719999
+2020-08-30,10543,Coats/Jackets,4 star,7100,Female,Mobile,Mobile,Mail,19.0,"$6,425.44 ",American Dollar,6425.44
+2020-08-28,10544,Cardigan,1 star,7547,Male,Ewallet,Ewallet,Mail,14.0,"$5,382.49 ",American Dollar,5382.49
+2020-08-25,10545,Shirts/Tops,2 star,8819,Female,Credit Card,Credit Card,Express,20.0,"€ 6,765.48",Euro,7958.396495519999
+2020-08-06,10546,Coats/Jackets,4 star,6841,Male,Ewallet,Ewallet,Express,18.0,"€ 3,383.62",Euro,3980.23341288
+2020-08-28,10547,Hats,3 star,6040,Unspecified,Direct Deposit,Direct Deposit,Express,12.0,"$9,430.45 ",American Dollar,9430.45
+2020-08-26,10548,Dresses,3 star,5485,Male,Credit Card,Creditcard,Mail,19.0,"€ 1,354.18",Euro,1592.95443432
+2020-08-18,10549,Pants,3 star,8745,Unspecified,Prepaid Card,Prepaid Card,Mail,10.0,£ 4060.4158125000004,British Pound,5637.72493902375
+2020-08-18,10550,Dresses,5 star,9365,Unspecified,Credit Card,Credit Card,Normal,13.0,"$2,904.03 ",American Dollar,2904.03
+2020-08-21,10551,Hats,2 star,8734,Male,Direct Deposit,Directdeposit,Normal,16.0,£ 5817.31677175,British Pound,8077.1116449040055
+2020-08-14,10552,Shirts/Tops,5 star,9965,Male,Cash,Cash,Express,7.0,"$4,965.25 ",American Dollar,4965.25
+2020-08-23,10553,Shirts/Tops,3 star,8175,Unspecified,Credit Card,Credit Card,Express,5.0,₹ 388459.65750934,Indian Rupee,5230.609288363263
+2020-08-16,10554,Coats/Jackets,4 star,9303,Male,Direct Deposit,Direct Deposit,Economy,11.0,"€ 1,943.27",Euro,2285.9151394799997
+2020-08-23,10555,Coats/Jackets,1 star,8399,Female,Prepaid Card,Prepaid Card,Mail,14.0,"$2,528.42 ",American Dollar,2528.42
+2020-08-08,10556,Dresses,1 star,7502,Male,Prepaid Card,Prepaid Card,Normal,14.0,"$9,962.44 ",American Dollar,9962.44
+2020-08-08,10557,Coats/Jackets,1 star,6838,Female,Ewallet,Ewallet,Express,7.0,"€ 5,241.53",Euro,6165.737535719999
+2020-08-31,10558,Coats/Jackets,5 star,7007,Unspecified,Credit Card,Credit Card,Normal,11.0,₹ 234895.78095268,Indian Rupee,3162.871690527836
+2020-08-23,10561,Dresses,1 star,7607,Male,Direct Deposit,Directdeposit,Mail,18.0,"$7,891.05 ",American Dollar,7891.05
+2020-08-03,10562,Coats/Jackets,2 star,5858,Male,Credit Card,Creditcard,Express,8.0,£ 4114.86427075,British Pound,5713.324445365545
+2020-08-08,10563,Shirts/Tops,3 star,7066,Male,Credit Card,Credit Card,Mail,9.0,₹ 617567.83078528,Indian Rupee,8315.550841523795
+2020-08-18,10564,Dresses,2 star,9142,Female,Credit Card,Creditcard,Normal,5.0,₹ 325580.74608394003,Indian Rupee,4383.944746020253
+2020-08-23,10565,Coats/Jackets,1 star,6328,Male,Cash,Cash,Mail,7.0,"€ 7,708.86",Euro,9068.11703064
+2020-08-04,10566,Coats/Jackets,2 star,6090,Female,Prepaid Card,Prepaid Card,Express,5.0,£ 1148.1217405,British Pound,1594.12111181463
+2020-08-16,10567,Coats/Jackets,5 star,9433,Unspecified,Mobile,Mobile,Normal,13.0,₹ 127655.91325387999,Indian Rupee,1718.886871963494
+2020-08-25,10568,Pants,3 star,7354,Female,Credit Card,Credit Card,Normal,10.0,₹ 577078.47118378,Indian Rupee,7770.361614489598
+2020-08-29,10570,Jeans,1 star,7807,Unspecified,Credit Card,Credit Card,Mail,6.0,£ 6232.343745500001,British Pound,8653.359996876932
